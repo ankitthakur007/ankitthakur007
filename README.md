@@ -1,5 +1,5 @@
-### Hi there 👋
-I am Ankit Pratap Singh.
+# Ankit Pratap Singh
+### I have finished my masters in math from Jamia Millia Islamia back in 2019. I have been learning machine learning and data science skills for over one year, and completed zero to data science bootcamp on jovian.ai, completed 1 project on web scraping and 2 exploratory data analysis projects, currently working on a machine learning project. Looking for a Data Scientist, Data Analyst and Product Analyst role.
 <!--
 **ankitthakur007/ankitthakur007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
