@@ -1,6 +1,11 @@
 # Ankit Pratap Singh
-### Address: Moradabad, Uttar Pradesh
-###          India, PIN: 244104
+
+## Work Experience
+### Data Science Consulatnt, Zomentum (August 2021-Present)
+* Working in a team of 2 members to perform analysis on sales data to find opportunities for growth
+* Creating rich visualizations and interactive dashboards with `Tableau`, `Power BI` and `AWS Lambda`
+* Writing pyhton scripts for `enriching` their database, and for data `preprocessing` to prepare the data for visualizations.
+* * Writing scripts Scraping data from dun&bradstreets and LinkedIn to enrich partner companies data
 <!--
 **ankitthakur007/ankitthakur007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
