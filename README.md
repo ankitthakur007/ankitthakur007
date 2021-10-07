@@ -18,7 +18,7 @@
 * `Highlights`:Got skilled in Linear Algebra, Operations Research and a little bit in Functional Analysis.
 
 ## Projects
-### Exploratory Data Analysis: Covid Vaccination Data Analysis ([Project Notebook](https://jovian.ai/thakubhai-007/eda-project-on-world-wide-covid-vaccination), [Blog](https://blog.jovian.ai/exploratory-data-analysis-of-covid-19-vaccinations-d6aa9ce1fdb0?source=your_stories_page-------------------------------------)
+### Exploratory Data Analysis: Covid Vaccination Data Analysis ([Project Notebook](https://jovian.ai/thakubhai-007/eda-project-on-world-wide-covid-vaccination), [Blog](https://blog.jovian.ai/exploratory-data-analysis-of-covid-19-vaccinations-d6aa9ce1fdb0?source=your_stories_page-------------------------------------))
 * Analyzed Covid-19 vaccination progress with more than `35,000 rows` of data
 * Performed analysis and created **`Bar charts`**, **`Pie charts`**, **`Geo-scatter Plots`** and **`Subplots`** using Plotly
 * Insights like: `“vaccination percentage for top 10 most populous countries”`, `“vaccination progress for top 5 most rich countries”`, `created a mixed subplot to show the different aspects for a country`
