@@ -7,7 +7,7 @@
 * Writing pyhton scripts for `enriching` their database, and for data `preprocessing` to prepare the data for visualizations.
 * Writing `web-scraping` scripts to `scrap` data from [`dun&bradstreets`](https://www.dnb.co.in/) and `LinkedIn` to enrich partner companies data
 
-**`I am currenty looking for a *Data Analyst/Product Analyst* job role`**
+***`I am currenty looking for a Data Analyst/Product Analyst job role`***
 
 ## Education
 ### Data Science Bottcamp, Jovian (March 2021-August 2021)
