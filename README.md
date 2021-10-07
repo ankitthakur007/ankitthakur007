@@ -5,7 +5,7 @@
 * Working in a team of 2 members to perform analysis on sales data to find opportunities for growth
 * Creating rich visualizations and interactive dashboards with `Tableau`, `Power BI` and `AWS Lambda`
 * Writing pyhton scripts for `enriching` their database, and for data `preprocessing` to prepare the data for visualizations.
-* Writing scripts `scraping` data from `[dun&bradstreets](https://www.dnb.co.in/)` and `LinkedIn` to enrich partner companies data
+* Writing scripts `scraping` data from [`dun&bradstreets`](https://www.dnb.co.in/) and `LinkedIn` to enrich partner companies data
 
 
 <!--
