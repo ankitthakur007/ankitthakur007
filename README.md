@@ -2,23 +2,23 @@
 
 ## Work Experience
 ### Jr. Data Analyst, The Ballot House (UK) (October 2021-Present)
-* Writing `web-scraping` scripts to enrich the database regarding public surveys, and govt schemes
-* Creating web-based dashboards using `streamlit` and *`plotly-dash`*
+* Writing **`web-scraping`** scripts to enrich the database
+* Creating web-based dashboards using **`streamlit`** and **`plotly-dash`**
 * Developing discord-bots for company to integrate the google accounts with discord app.
 
 ### Data Science Consulatnt, Zomentum (August 2021-October 2021)
 * Working in a team of 2 members to perform analysis on sales data to find opportunities for growth
-* Creating rich visualizations and interactive dashboards with `Tableau`, `Power BI` and `AWS Lambda`
-* Writing pyhton scripts for `enriching` their database, and for data `preprocessing` to prepare the data for visualizations.
-* Writing `web-scraping` scripts to `scrap` data from [`dun&bradstreets`](https://www.dnb.co.in/) and `LinkedIn` to enrich partner companies data
+* Creating rich visualizations and interactive dashboards with **`Tableau`**, **`Power BI`** and **`AWS Lambda`**
+* Writing pyhton scripts for **`enriching`** their database, and for data **`preprocessing`** to prepare the data for visualizations.
+* Writing **`web-scraping`** scripts to **`scrape`** data from **[`dun&bradstreets`](https://www.dnb.co.in/)** and **`LinkedIn`** to enrich partner companies data
 
 ## Education
 ### Data Science Bottcamp, Jovian (March 2021-August 2021)
-* `Courses`: Python Programming, Fundamental of Statistics, Data Visualization, Machine Learning, Excel, SQL, Product Analysis
-* `Highlights`: 500+ hours of course work, 3 capstone project, 1 open ended capstone project, 10 assignments.
+* **`Courses`**: Python Programming, Fundamental of Statistics, Data Visualization, Machine Learning, Excel, SQL, Product Analysis
+* **`Highlights`**: 500+ hours of course work, 3 capstone project, 1 open ended capstone project, 10 assignments.
 ### M.Sc in Mathematics, Jamia Millia Islamia, New Delhi (August 2017-May 2019)
-* `Courses`:Linear Algebra, Modern Algebra, Ordinary Differential Equations, Operations Research(LPP), Real Analysis, Functional Analysis
-* `Highlights`:Got skilled in Linear Algebra, Operations Research and a little bit in Functional Analysis.
+* **`Courses`**:Linear Algebra, Modern Algebra, Ordinary Differential Equations, Operations Research(LPP), Real Analysis, Functional Analysis
+* **`Highlights`**:Got skilled in Linear Algebra, Operations Research and a little bit in Functional Analysis.
 
 ## Projects
 ### Exploratory Data Analysis: Covid Vaccination Data Analysis ([Project Notebook](https://jovian.ai/thakubhai-007/eda-project-on-world-wide-covid-vaccination), [Blog](https://blog.jovian.ai/exploratory-data-analysis-of-covid-19-vaccinations-d6aa9ce1fdb0?source=your_stories_page-------------------------------------))
