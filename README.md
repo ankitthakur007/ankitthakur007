@@ -25,7 +25,7 @@
 * Analyzed Covid-19 vaccination progress with more than `35,000 rows` of data
 * Performed analysis and created **`Bar charts`**, **`Pie charts`**, **`Geo-scatter Plots`** and **`Subplots`** using Plotly
 * Insights like: `“vaccination percentage for top 10 most populous countries”`, `“vaccination progress for top 5 most rich countries”`, `created a mixed subplot to show the different aspects for a country`
-### Web-Scraping: World's top 500 Companies by Market Capitalization ([Project Notebook](https://jovian.ai/ankit-singh/web-scraping-final), [Blog](https://blog.jovian.ai/web-scraping-using-python-and-beautifulsoup-adf43cbdb816?source=your_stories_page----------------------------------------)) 
+### Web-Scraping: World's top 500 Companies by Market Capitalization ([Project Notebook](https://jovian.ai/ankit-singh/web-scraping-final), [Blog](https://blog.jovian.ai/web-scraping-using-python-and-beautifulsoup-adf43cbdb816?source=your_stories_page----------------------------------------))
 * Used `BeautifulSoup4` and `Requests` library to scrape data of world’s top 500 companies by market cap
 * Created two csv files one for listings of top 500 companies and the second for comparison between their market cap between 4 quarters of a year
 
@@ -34,7 +34,7 @@
 * Built a regression model, made a prediction on the test dataset, scoring `0.08915` on Kaggle leaderboard
 * Experimenting with different ML models - `Ridge`, `Lasso`, `Random Forest`, `XGBoost` and `LightGBM`
 
-### Excel and Tableau Project: Bookshop Dashboard ([View Excel Sheet](https://docs.google.com/spreadsheets/d/19qpFXytqR7zLh7egjTv3J2_YICIiOXu21czVrKSIIf0/edit?usp=sharing), [View Dashboard](https://public.tableau.com/app/profile/ankit.pratap.singh/viz/BookshopDashboard/BookshopDashboard)
+### Excel and Tableau Project: Bookshop Dashboard ([View Excel Sheet](https://docs.google.com/spreadsheets/d/19qpFXytqR7zLh7egjTv3J2_YICIiOXu21czVrKSIIf0/edit?usp=sharing), [View Dashboard](https://public.tableau.com/app/profile/ankit.pratap.singh/viz/BookshopDashboard/BookshopDashboard))
 * Worked on a Bookshop excel workbook.
 * Added three new sheets, created `3 visualizations` and `1 pivot table` to analyze the data.
 * Created a Tableau dashboard with a number of visualizations using analyzed data from the sheet.
