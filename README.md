@@ -1,13 +1,16 @@
 # Ankit Pratap Singh
 
 ## Work Experience
-### Data Science Consulatnt, Zomentum (August 2021-Present)
+### Jr. Data Analyst, The Ballot House (UK) (October 2021-Present)
+* Writing `web-scraping` scripts to enrich the database regarding public surveys, and govt schemes
+* Creating web-based dashboards using `streamlit` and *`plotly-dash`*
+* Developing discord-bots for company to integrate the google accounts with discord app.
+
+### Data Science Consulatnt, Zomentum (August 2021-October 2021)
 * Working in a team of 2 members to perform analysis on sales data to find opportunities for growth
 * Creating rich visualizations and interactive dashboards with `Tableau`, `Power BI` and `AWS Lambda`
 * Writing pyhton scripts for `enriching` their database, and for data `preprocessing` to prepare the data for visualizations.
 * Writing `web-scraping` scripts to `scrap` data from [`dun&bradstreets`](https://www.dnb.co.in/) and `LinkedIn` to enrich partner companies data
-
-***`I am currenty looking for a Data Analyst/Product Analyst job role`***
 
 ## Education
 ### Data Science Bottcamp, Jovian (March 2021-August 2021)
@@ -22,6 +25,19 @@
 * Analyzed Covid-19 vaccination progress with more than `35,000 rows` of data
 * Performed analysis and created **`Bar charts`**, **`Pie charts`**, **`Geo-scatter Plots`** and **`Subplots`** using Plotly
 * Insights like: `“vaccination percentage for top 10 most populous countries”`, `“vaccination progress for top 5 most rich countries”`, `created a mixed subplot to show the different aspects for a country`
+### Web-Scraping: World's top 500 Companies by Market Capitalization ([Project Notebook](https://jovian.ai/ankit-singh/web-scraping-final), [Blog](https://blog.jovian.ai/web-scraping-using-python-and-beautifulsoup-adf43cbdb816?source=your_stories_page----------------------------------------)) 
+* Used `BeautifulSoup4` and `Requests` library to scrape data of world’s top 500 companies by market cap
+* Created two csv files one for listings of top 500 companies and the second for comparison between their market cap between 4 quarters of a year
+
+### Machine Learning Project: PUBG Finish Placement Prediction (Ongoing)
+* Working on a dataset with over `4 million` rows, containing information about `45,000+` PUBG matches
+* Built a regression model, made a prediction on the test dataset, scoring `0.08915` on Kaggle leaderboard
+* Experimenting with different ML models - `Ridge`, `Lasso`, `Random Forest`, `XGBoost` and `LightGBM`
+
+### Excel and Tableau Project: Bookshop Dashboard ([View Excel Sheet](https://docs.google.com/spreadsheets/d/19qpFXytqR7zLh7egjTv3J2_YICIiOXu21czVrKSIIf0/edit?usp=sharing), [View Dashboard](https://public.tableau.com/app/profile/ankit.pratap.singh/viz/BookshopDashboard/BookshopDashboard)
+* Worked on a Bookshop excel workbook.
+* Added three new sheets, created `3 visualizations` and `1 pivot table` to analyze the data.
+* Created a Tableau dashboard with a number of visualizations using analyzed data from the sheet.
 
 <!--
 **ankitthakur007/ankitthakur007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
