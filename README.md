@@ -4,7 +4,6 @@
 ### Jr. Data Analyst, The Ballot House (UK) (October 2021-Present)
 * Writing **`web-scraping`** scripts to enrich the database
 * Creating web-based dashboards using **`streamlit`** and **`plotly-dash`**
-* Developing discord-bots for company to integrate the google accounts with discord app.
 
 ### Data Science Consulatnt, Zomentum (August 2021-October 2021)
 * Working in a team of 2 members to perform analysis on sales data to find opportunities for growth
