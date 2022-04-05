@@ -1,7 +1,11 @@
 # Ankit Pratap Singh
+<Div>
+  <a href="https://www.linkedin.com/in/ankitpratap-singh/" rel="nofollow">
+    <img alt="LinkedIn" src="https://raw.githubusercontent.com/SaiSiddhardhaKalla/statalogosvg/main/linkedin-icon.svg", width="40" hieght="40" style="max-width: 100%;">
+  </Div>
 
 ## Work Experience
-### Jr. Data Analyst, The Ballot House (UK) (October 2021-Present)
+### Data Analyst, The Ballot House (UK) (October 2021-Present)
 * Writing **`web-scraping`** scripts to enrich the database
 * Creating web-based dashboards using **`streamlit`** and **`plotly-dash`**
 
