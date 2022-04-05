@@ -3,7 +3,7 @@
 How to reach me:
 <Div>
   <a href="https://www.linkedin.com/in/ankitpratap-singh/" rel="nofollow">
-    <img alt="LinkedIn" src="https://raw.githubusercontent.com/AnkitPratapSingh/statalogosvg/main/linkedin-icon.svg", width="40" hieght="40" style="max-width: 100%;">
+    <img alt="LinkedIn" src="https://raw.githubusercontent.com/SaiSiddhardhaKalla/statalogosvg/main/linkedin-icon.svg", width="40" hieght="40" style="max-width: 100%;">
   </Div>
 
 ## Work Experience
