@@ -1,7 +1,7 @@
 # Ankit Pratap Singh
 
 Hi there I am Ankit,
-<br I <p>&#128512;</p> love coding, cooking and mobile gaming. </br>
+<br> I <p>&#128512;</p> love coding, cooking and mobile gaming. </br>
 How to reach me:
 <Div>
   <a href="https://www.linkedin.com/in/ankitpratap-singh/" rel="nofollow">
