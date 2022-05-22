@@ -1,12 +1,17 @@
 # Ankit Pratap Singh
 
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://kit.fontawesome.com/4683b8eee0.js" crossorigin="anonymous"></script>
+</head>
+
 Hi there I am Ankit,
 <br> I love coding, cooking and mobile gaming. </br>
 How to reach me:
 <Div>
   <a href="https://www.linkedin.com/in/ankitpratap-singh/" rel="nofollow">
-    <img alt="LinkedIn" src="https://raw.githubusercontent.com/SaiSiddhardhaKalla/statalogosvg/main/linkedin-icon.svg", width="40" hieght="40" style="max-width: 100%;">
-  </Div>
+    <i class="fa-brands fa-linkedin" style="color:#0A66C2; font-size:36px;"></i>
+</Div>
 
 ## Work Experience
 ### Data Analyst, The Ballot House (UK) (October 2021-Present)
