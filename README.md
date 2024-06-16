@@ -9,9 +9,15 @@ How to reach me:
 </Div>
 
 ## Work Experience
-### Business Analyst, Supertails
+### Business Analyst, Supertails (Aug 2022 - Present)
+* Spearheaded data integration efforts across diverse platforms (`Shopify`, `Unicommerce`, `Razorpay`, `Zoho`, `Freshdesk`, `Clickpost`) using **Webhooks** and **APIs**.
+* Automated data retrieval from multiple tools by implementing cron jobs on **Google Cloud Platform** (`GCP`) **virtual machines**.
+* Leveraged cloud functions to streamline data fetching via `Webhooks`, optimizing efficiency and accuracy.
+* Ensured seamless data flow and accessibility for analysis, enabling informed decision-making and strategic planning.
+* Provided valuable insights and recommendations based on comprehensive data analysis, contributing to business growth and optimization.
+* Mentored a team of interns, fostering a collaborative and innovative environment focused on continuous improvement and learning.
 
-### Data Analyst, The Ballot House (UK) (October 2021-Present)
+### Data Analyst, The Ballot House (UK) (October 2021-Aug 2022)
 * Writing **`web-scraping`** scripts to enrich the database
 * Creating web-based dashboards using **`streamlit`** and **`plotly-dash`**
 
@@ -38,7 +44,7 @@ How to reach me:
 * Used `BeautifulSoup4` and `Requests` library to scrape data of world’s top 500 companies by market cap
 * Created two csv files one for listings of top 500 companies and the second for comparison between their market cap between 4 quarters of a year
 
-### Machine Learning Project: PUBG Finish Placement Prediction (Ongoing)
+### Machine Learning Project: PUBG Finish Placement Prediction
 * Working on a dataset with over `4 million` rows, containing information about `45,000+` PUBG matches
 * Built a regression model, made a prediction on the test dataset, scoring `0.08915` on Kaggle leaderboard
 * Experimenting with different ML models - `Ridge`, `Lasso`, `Random Forest`, `XGBoost` and `LightGBM`
