@@ -9,6 +9,8 @@ How to reach me:
 </Div>
 
 ## Work Experience
+### Business Analyst, Supertails
+
 ### Data Analyst, The Ballot House (UK) (October 2021-Present)
 * Writing **`web-scraping`** scripts to enrich the database
 * Creating web-based dashboards using **`streamlit`** and **`plotly-dash`**
