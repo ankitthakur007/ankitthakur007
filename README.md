@@ -1,7 +1,7 @@
 # Ankit Pratap Singh
 
 Hi there I am Ankit,
-<br> I love coding, cooking and mobile gaming. </br>
+<br> I'm a data analyst with a passion for using data to solve problems and drive results. I've worked on a variety of projects in both political consulting and e-commerce, using my skills in data extraction and visualization to help businesses make informed decisions. I'm also passionate about mentoring others and fostering their growth in the data field. </br>
 How to reach me:
 <Div>
   <a href="https://www.linkedin.com/in/ankitpratap-singh/" rel="nofollow">
@@ -18,8 +18,9 @@ How to reach me:
 * Mentored a team of interns, fostering a collaborative and innovative environment focused on continuous improvement and learning.
 
 ### Data Analyst, The Ballot House (UK) (October 2021-Aug 2022)
-* Writing **`web-scraping`** scripts to enrich the database
-* Creating web-based dashboards using **`streamlit`** and **`plotly-dash`**
+* Prepared dashboard for poll analysis using elections **Form-20** data with `Plotly Dash`.
+* Scraped **50K+ (204 GB)** electoral PDFs from ECI website & converted into CSV using **OCR**.
+* Building a web app for internal employee user login with `Django framework`, backend with **SQL** and **MongoDB**
 
 ### Data Science Consulatnt, Zomentum (August 2021-October 2021)
 * Working in a team of 2 members to perform analysis on sales data to find opportunities for growth
