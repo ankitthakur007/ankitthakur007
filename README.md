@@ -3,12 +3,14 @@
 Hi there I am Ankit,
 <br> I'm a data analyst with a passion for using data to solve problems and drive results. I've worked on a variety of projects in both political consulting and e-commerce, using my skills in data extraction and visualization to help businesses make informed decisions. I'm also passionate about mentoring others and fostering their growth in the data field. </br>
 How to reach me:
-<Div>
+<div>
   <a href="https://www.linkedin.com/in/ankitpratap-singh/" rel="nofollow">
-    <img alt="LinkedIn" src="https://raw.githubusercontent.com/SaiSiddhardhaKalla/statalogosvg/main/linkedin-icon.svg", width="40" hieght="40" style="max-width: 100%;">
+    <img alt="LinkedIn" src="https://raw.githubusercontent.com/SaiSiddhardhaKalla/statalogosvg/main/linkedin-icon.svg" width="40" height="40" style="max-width: 100%;">
   </a>
-</Div>
+</div>
+
 ---
+
 ## Work Experience
 ### Business Analyst, Supertails (Aug 2022 - Present)
 * Led data integration efforts across diverse platforms (`Shopify`, `Unicommerce`, `Razorpay`, `Zoho`, `Freshdesk`, `Clickpost`) using **Webhooks** and **APIs**.
@@ -23,18 +25,24 @@ How to reach me:
   * A feature to schedule changes, reducing the need for off-hours adjustments.
 * Provided valuable insights and recommendations based on comprehensive data analysis, contributing to business growth and optimization.
 * Mentored a team of 6 interns, fostering a collaborative and innovative environment focused on continuous improvement and learning.
+  
 ---
+
 ### Data Analyst, The Ballot House (UK) (October 2021-Aug 2022)
 * Prepared dashboard for poll analysis using elections **Form-20** data with `Plotly Dash`.
 * Scraped **50K+ (204 GB)** electoral PDFs from ECI website & converted into CSV using **OCR**.
 * Building a web app for internal employee user login with `Django framework`, backend with **SQL** and **MongoDB**
+  
 ---
+
 ### Data Science Consulatnt, Zomentum (August 2021-October 2021)
 * Working in a team of 2 members to perform analysis on sales data to find opportunities for growth
 * Creating rich visualizations and interactive dashboards with **`Tableau`**, **`Power BI`** and **`AWS Lambda`**
 * Writing pyhton scripts for **`enriching`** their database, and for data **`preprocessing`** to prepare the data for visualizations.
 * Writing **`web-scraping`** scripts to **`scrape`** data from **[`dun&bradstreets`](https://www.dnb.co.in/)** and **`LinkedIn`** to enrich partner companies data
+
 ---
+
 ## Education
 ### Data Science Bottcamp, Jovian (March 2021-August 2021)
 * **`Courses`**: Python Programming, Fundamental of Statistics, Data Visualization, Machine Learning, Excel, SQL, Product Analysis
