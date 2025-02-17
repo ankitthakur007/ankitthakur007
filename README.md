@@ -18,7 +18,7 @@ How to reach me:
 * Streamlined data fetching using cloud functions and Webhooks, ensuring seamless data flow and accessibility for analysis, reducing data processing time by **30%-50%** and enabling informed decision-making.
 * Developed a database in SQL using **Webhooks** and **APIs**, reducing the time users wait for data exports from various sources.
 * Utilized v0 (Vercel AI) and cursor.ai to build data-driven apps and dashboard.
-* Deployed a backend data app to assist the supply chain team in managing promise engine data, reducing dependency on analysts and enabling frequent updates to minimize **Estimated Delivery Date** (EDD) breaches from `**5%**` to `**3%**`, the app will have the following features:
+* Deployed a backend data app to assist the supply chain team in managing promise engine data, reducing dependency on analysts and enabling frequent updates to minimize **Estimated Delivery Date** (EDD) breaches from **`5%`** to **`3%`**, the app will have the following features:
   * Role-based access control and Google login integration.
   * A user-friendly interface allowing non-technical users to update SQL tables.
   * Audit logs for tracking changes, identifying who made updates and when.
